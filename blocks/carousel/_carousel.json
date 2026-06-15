@@ -62,7 +62,6 @@
             { "name": "None", "value": "" },
             { "name": "Zoom In Effect", "value": "zoom-in" },
             { "name": "Zoom Out Effect", "value": "zoom-out" },
-            { "name": "Zoom ULTRA Effect", "value": "zoom-ULTRA" },
             { "name": "Swipe", "value": "big-zoom" }
           ]
         }
