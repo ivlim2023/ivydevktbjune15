@@ -60,8 +60,8 @@
           "description": "Applies to all cards in this carousel.",
           "options": [
             { "name": "None", "value": "" },
-            { "name": "Zoom In Effect1", "value": "zoom-in" },
-            { "name": "Zoom Out Effect1", "value": "zoom-out" },
+            { "name": "Zoom In Effect", "value": "zoom-in" },
+            { "name": "Zoom Out Effect", "value": "zoom-out" },
             { "name": "Swipe", "value": "big-zoom" }
           ]
         }
