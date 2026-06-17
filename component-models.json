@@ -53,6 +53,10 @@
               "value": "green-theme"
             },
             {
+              "name": "Gray Theme",
+              "value": "gray-theme"
+            },
+            {
               "name": "WeHealthcare Theme",
               "value": "wehealthcare-theme"
             }
